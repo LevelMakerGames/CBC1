@@ -1,0 +1,8 @@
+[Update]
+version="0"
+[Links]
+urlFreeGames="https://play.google.com/store/apps/developer?id=MAZE+GAMES+OFFLINE"
+urlAppAndroid="https://play.google.com/store/apps/details?id=com.maze.games.offline.crazy.bunny.castle"
+[Ads]
+adsAdmobInterstitialInitialize=1
+adsUnityInterstitialInitialize=1
